@@ -28,7 +28,7 @@ $ git clone https://github.com/RaianCanutto/System32-Obliterator-Deluxe-Edition.
 
 ```bash
 # Vá para o diretório do arquivo
-$ cd Obliterator
+$ cd obliterator
 ```
 
 ```bash
