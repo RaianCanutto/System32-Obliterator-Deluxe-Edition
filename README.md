@@ -31,4 +31,4 @@ $ python main.py
 
 ## License
 
-Este projeto está sob a licença MIT. Consulte o LICENSE para obter detalhes.
+Este projeto está sob a licença MIT. Consulte o [LICENSE](https://github.com/RaianCanutto/System32-Obliterator-Deluxe-Edition/blob/main/LICENSE) para obter detalhes.
