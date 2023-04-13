@@ -1,9 +1,16 @@
+
 <h1 align="center">
 	<p>😈 System32-Obliterator-Deluxe-Edition.</p>
 </h1>
 
+<h2 align='center'>
+	
+![GitHub language count](https://img.shields.io/github/languages/count/RaianCanutto/System32-Obliterator-Deluxe-Edition)
+![GitHub top language](https://img.shields.io/github/languages/top/RaianCanutto/System32-Obliterator-Deluxe-Edition)
+![GitHub](https://img.shields.io/github/license/RaianCanutto/System32-Obliterator-Deluxe-Edition)
+</h2>
 
-## 📝 Projeto
+## 📋 Projeto
 - 😼 Você já teve vontade de jogar tudo pro alto e deletar o sistema operacional por completo?
 Com esse código em Python, agora você pode!
 Mas já vou avisando: use por sua conta e **risco**. 
@@ -29,6 +36,6 @@ $ cd System32-Obliterator-Deluxe-Edition
 $ python main.py
 ```
 
-## License
+## 📝 License
 
 Este projeto está sob a licença MIT. Consulte o [LICENSE](https://github.com/RaianCanutto/System32-Obliterator-Deluxe-Edition/blob/main/LICENSE) para obter detalhes.
